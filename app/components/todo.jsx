@@ -1,5 +1,6 @@
-"use client"; // CSR : client side rendering => to use hook , 
-import React, { useEffect, useState } from "react";
+"use client"
+// CSR : client side rendering => to use hook , 
+import  { useEffect, useState } from "react";
 
 const Todo = () => {
   const [todo, setTodo] = useState({});

@@ -2,7 +2,7 @@ const PostDetailes = async ({ postId }) => {
   
     await new Promise((resolve=>{
       setTimeout(()=>{
-        resolve()
+        resolve();
       },2000)
     }))
   

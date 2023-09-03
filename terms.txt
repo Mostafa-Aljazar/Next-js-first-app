@@ -1,7 +1,0 @@
-SSR :  server side rendering / css-html-js
-CSR : client side rendering / react-veu-angular
-SEO : search engine optimaization / how extend your site to appear in search
-Next js : framework based on react => SPA - SSR
-SPA : single page app
-SSG : static side generation
-ISG : incremental static regeneration

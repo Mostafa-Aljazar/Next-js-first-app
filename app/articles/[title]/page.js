@@ -1,13 +1,12 @@
 import React from 'react'
 
 
-export const metadata = {
-  title: `Show Article Page`,
-};
+// export const metadata = {
+//   title: `Show Article Page`,
+// };
 
 
 const ShowArticlePage = (props) => {
-  // console.log(props)
 
   return (
     <div>

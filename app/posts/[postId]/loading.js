@@ -1,11 +1,11 @@
 import React from "react";
 
-const loading = () => {
+const LoadingPostDetails = () => {
   return (
     <div>
-      <span class="">Loading</span>
+    <h1>Loading 👌🏻</h1>
     </div>
   );
 };
 
-export default loading;
+export default LoadingPostDetails;

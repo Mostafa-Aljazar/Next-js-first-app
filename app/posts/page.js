@@ -1,4 +1,3 @@
-import { Suspense } from "react";
 import Todo from "../components/todo";
 import Link from "next/link";
 
@@ -18,7 +17,6 @@ const PostsPage = async () => {
     },
   });
   const posts = await response.json();
-  // console.log(posts);
 
   const postJSX = posts.map((post) => {
     return (
